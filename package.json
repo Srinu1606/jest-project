@@ -1,0 +1,16 @@
+{
+  "name": "practice-jest",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-junit": "^16.0.0",
+    "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
